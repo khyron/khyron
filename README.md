@@ -1,6 +1,6 @@
 <img align="left" width="15%" margin="20" style="margin-right:15px " src="assets/img/avatar.png">
 
-### Luis Cerda S.
+### Luis Cerda.
 
 ---
 
