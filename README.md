@@ -1,5 +1,3 @@
-# 👋 About me
-
 🎓 **Infrastructure & Cloud Engineer** | 💻 **DevOps Enthusiast** | ⚙️ **SRE Specialist** | 📷 **Macro Photographer**
 
 I'm an IT professional with over 10 years of experience in infrastructure, cloud services, automation, and site reliability. I love building robust, scalable systems that support modern applications and critical operations. I'm also passionate about learning new technologies and applying them to create meaningful change—whether that's optimizing enterprise infrastructure.
