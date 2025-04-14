@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Luis Cerda S.
+# 👋 About me
 
 🎓 **Infrastructure & Cloud Engineer** | 💻 **DevOps Enthusiast** | ⚙️ **SRE Specialist** | 📷 **Macro Photographer**
 
@@ -13,7 +13,8 @@ I'm an IT professional with over 10 years of experience in infrastructure, cloud
 - ⚙️ Passionate about **automation**, **system reliability**, and **process optimization**.
 - 🧪 Constantly exploring new tech and how it can improve operations or unlock new capabilities.
 - 🌱 Currently expanding my backend skills with **Node.js**
-  🌎 Based in Chile | 🌐 Fluent in Spanish & English (EFSET C2  / TOEIC B2 )
+-  🌎 Based in Chile
+-  🌐 Fluent in Spanish & English (EFSET C2  / TOEIC B2 )
 ---
 ### 🧠 Skills
 
