@@ -1,4 +1,4 @@
-<img align="left" width="15%" margin="20" style="margin-right:15px " src="assets/img/avatar.png">
+<img align="left" width="15%" margin="20" style="margin-right:15px ; margin-bottom:15px " src="assets/img/avatar.png">
 
 ### Luis Cerda.
 
