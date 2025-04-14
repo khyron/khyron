@@ -50,7 +50,8 @@ I'm an IT professional with over 10 years of experience in infrastructure, cloud
 
 - 🧑‍💻 **Desafío Latam** — Backend JavaScript Development *(2024–2025)*  
 - 📊 **Universidad del Desarrollo** — Data Analysis Diploma *(2023–2024)*  
-- 🚀 **Universidad de Santiago de Chile** — DevOps Diploma *(2022–2023)*  
+- 🚀 **Universidad de Santiago de Chile** — DevOps Diploma *(2022–2023)*
+- ☁️ **Universidad de Santiago de Chile** — Cloud Architecture Diploma *(2021–2022)*
 - 🏗️ **Duoc UC** — Infrastructure & Technology Platforms Engineering *(2013–2016)*  
   *Graduated — Specialized in managing infrastructure services and enterprise platforms.*
 
